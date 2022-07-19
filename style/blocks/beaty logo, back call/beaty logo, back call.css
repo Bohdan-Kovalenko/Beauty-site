@@ -1,0 +1,41 @@
+
+
+.block_beauty-logo_back-call {
+    background-color:white ;
+}
+
+.beauty-logo_back-call {
+    display: flex;
+    justify-content: space-between;
+}
+
+.beauty-logo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.number-tel_back-call {
+    display: flex;
+    justify-content:right;
+    gap: 40px;
+    align-items: center;
+
+}
+
+.number-tel {
+    color: black;
+    font-weight: 400;
+    line-height: 19px;
+    text-decoration: none;
+}
+
+.back-call {
+    background-color: white;
+    border-radius: 25px;
+    border: solid 2px #F13C6E;
+    padding-top: 12px;
+    padding-right: 26px;
+    padding-bottom: 13px;
+    padding-left: 27px;
+
+}
