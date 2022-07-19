@@ -1,0 +1,19 @@
+
+
+.services {
+    border-top: 1px solid #EFEFEF;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.links-services {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.link-services {
+    line-height: 19px;
+    font-weight: 400;
+}
