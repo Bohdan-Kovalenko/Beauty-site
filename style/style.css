@@ -1,5 +1,5 @@
 
-
+/* @import "./Header/header.css" */
 
 
 
@@ -20,4 +20,8 @@
     width: 1110px;
     margin-right: auto;
     margin-left: auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
 }

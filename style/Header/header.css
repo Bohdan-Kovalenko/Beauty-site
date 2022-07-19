@@ -1,0 +1,27 @@
+.header-nav {
+        background-color: #E5E5E5;
+}
+
+.nav-block {
+    text-align: center;
+    padding-bottom: 16px;
+    padding-top: 17px;
+    background-color: #E5E5E5;
+    font-size: 0px;
+}
+
+
+.nav-links {
+    text-decoration: none;  
+    margin-right: 30px;
+    color: #333333;
+    line-height: 14px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+.nav-contacts {
+    margin-right: 0px;
+}
+
