@@ -1,4 +1,6 @@
-
+@import url(./style/blocks/Header/header.css);
+@import url(./style/blocks/beaty_back-call/beaty_back-call.css);
+@import url(./style/blocks/super-chair/super-chair.css);
 
 * {
     box-sizing: border-box;
