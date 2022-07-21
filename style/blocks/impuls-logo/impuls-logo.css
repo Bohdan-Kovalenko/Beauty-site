@@ -1,0 +1,24 @@
+
+
+.impuls-logo {
+    background-color: #E5E5E5;
+    padding-top: 99px;
+}
+
+
+.impuls-block {
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+}
+
+.impuls-card { 
+    flex-grow: 1;   
+    padding-top: 35px;
+    padding-right: 63px;
+    padding-bottom: 35px;
+    padding-left: 60px;
+    background-color: white;
+    outline: solid 1px gray;
+}
