@@ -1,0 +1,64 @@
+
+
+.basic-proposals {
+    background-color: #E5E5E5;
+    padding-top: 80px;
+}
+
+.special-proposals_block {
+    padding-top: 38px;
+    display: flex;
+    gap: 30px;
+}
+
+
+.special-proposals_title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.special-proposals_card {
+    width: 255px;
+    background-color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+}
+
+.special-proposals_text {
+    line-height: 20px;
+    font-size: 14px;
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.special-proposals_size {
+    line-height: 22px;
+    font-size: 21px;
+    font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.special-proposals_button {
+    background-color: #F13C6E;
+    border-radius: 25px;
+    border: none;
+    padding-top: 9px;
+    padding-right: 40px;
+    padding-bottom: 9px;
+    padding-left: 39px;
+}
+
+.special-proposals_button_link {
+    text-decoration: none;
+    color: white;
+    line-height: 16px;
+    font-size: 14px;
+}
