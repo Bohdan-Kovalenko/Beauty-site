@@ -1,0 +1,111 @@
+
+
+.bonuses_map-of-shops_card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bonuses_map-of-shops {
+    background-color: #E5E5E5;
+    padding-top: 100px;
+}
+
+.bonuses {
+    width: 540px;
+    background-color: #F13C6E;
+    padding-top: 35px;
+    padding-right: 45px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bonuses-title {
+    color: white;
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.bonuses-text {
+    width: 231px;
+    color: white;
+    line-height: 16px;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+
+}
+
+.submit-email {
+    width: 225px;
+    padding-top: 9px;
+    padding-right: 104px;
+    padding-bottom: 9px;
+    padding-left: 25px;
+    border: none;
+    border-radius: 25px;
+}
+
+.auto-img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+
+
+
+/*  */
+
+.map-of-shops {
+    background-color: #F13C6E;
+    width: 540px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-right: 45.33px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+}
+
+.map-of-shops_title {
+    color: white;
+    line-height: 19px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.map-of-shops_text {
+    color: white;
+    font-size: 14px;
+    line-height: 16px;
+    width: 141px;
+}
+
+.map-button {
+    background-color: #F13C6E;
+    border: solid 2px white;
+    border-radius: 25px;
+    padding-top: 9px;
+    padding-right: 28px;
+    padding-bottom: 9px;
+    padding-left: 29px;
+}
+
+.link-map_button {
+    text-decoration: none;
+    line-height: 16px;
+    font-size: 14px;
+    color: white;
+}
+
+
+
+
