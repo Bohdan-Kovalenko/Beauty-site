@@ -1,0 +1,40 @@
+
+
+.Popular-categories {
+    background-color: white;
+}
+
+.Popular-categories_card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Popular-categories_block {
+    width: 255px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.Popular-categories_title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    font-weight: 500;
+    line-height: 20px;
+    
+}
+
+.link-nozzle {
+    border-top: 1px solid gray;
+    padding-top: 25px;
+}
+
+.Popular-categories_links {
+    color: #828282;
+    line-height: 28px;
+    font-size: 12px;
+    text-decoration: none;
+
+}
