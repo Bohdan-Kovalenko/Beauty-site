@@ -1,0 +1,33 @@
+
+
+.social-networks_number-tel-back-call {
+    display: flex;
+    justify-content: space-between;
+    border-top: solid 1px #EFEFEF;
+    padding-top: 37px;
+    padding-bottom: 38px;
+}
+
+.social-networks_block {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 50px;
+}
+
+.button_logo {
+    background-color: white;
+    border: solid 2px #F13C6E;
+    border-radius: 50px;
+
+}
+.social-networks_logo {
+    margin: auto;
+}
+
+.number-tel-back-call {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 40px;
+}

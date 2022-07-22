@@ -26,8 +26,12 @@
     
 }
 
+.last-link {
+    padding-bottom: 60px;
+}
+
 .link-nozzle {
-    border-top: 1px solid gray;
+    border-top: 1px solid #EFEFEF;
     padding-top: 25px;
 }
 
