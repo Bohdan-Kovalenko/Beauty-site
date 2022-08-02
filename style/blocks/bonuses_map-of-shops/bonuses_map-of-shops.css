@@ -97,13 +97,14 @@
     padding-right: 28px;
     padding-bottom: 9px;
     padding-left: 29px;
-}
-
-.link-map_button {
     text-decoration: none;
     line-height: 16px;
     font-size: 14px;
     color: white;
+}
+
+.link-map_button {
+    
 }
 
 

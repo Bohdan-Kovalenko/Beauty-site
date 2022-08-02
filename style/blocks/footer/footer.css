@@ -1,0 +1,29 @@
+
+
+.footer {
+    background-color: #EFEFEF;
+}
+
+.footer-block {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    align-items: center;
+
+}
+
+.footer-text {
+    color: #828282;
+    line-height: 14px;
+    font-size: 12px;
+    margin: 0px;
+}
+
+
+.link_privacy-policy {
+    color: #828282;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+}
