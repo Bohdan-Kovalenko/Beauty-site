@@ -12,17 +12,21 @@
     display: flex;
     justify-content: left;
     align-items: center;
-    gap: 50px;
+    gap: 20px;
+}
+
+.vector {
+
+}
+
+.social-networks_logo {
+
 }
 
 .button_logo {
     background-color: white;
     border: solid 2px #F13C6E;
     border-radius: 50px;
-
-}
-.social-networks_logo {
-    margin: auto;
 }
 
 .number-tel-back-call {
